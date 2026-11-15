@@ -1,0 +1,29 @@
+Stratanauts Space Mission — Team Licence
+Copyright (c) 2026 Team The Stratanauts
+(NASA Space Apps Challenge 2026, Kopargaon, India)
+https://stratanauts-space-mission.vercel.app
+
+Permission is granted, free of charge, to any person obtaining a copy of this
+software and associated documentation files (the "Software"), to use, copy,
+modify, merge, publish and distribute the Software for educational, research and
+non-commercial purposes, subject to the following conditions:
+
+1. The copyright notice above and this permission notice shall be included in all
+   copies or substantial portions of the Software.
+2. Credit to Team The Stratanauts shall be given wherever the Software, or a work
+   derived from it, is used, published or demonstrated.
+3. Attribution retained: portions of this codebase derive from the earlier
+   open-source Mission Forge project by Team Ghost Hunter. That lineage is
+   acknowledged here and must not be removed from derivative copies.
+
+NASA imagery, NASA 3D models and NASA datasets used in this project remain subject
+to the NASA Media Usage Guidelines and are not relicensed by this notice. Third-party
+libraries, fonts and services remain under their own respective licences, listed in
+TECH-STACK-AND-CREDITS.md. No NASA insignia, logo or endorsement is claimed or implied.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF
+CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE
+OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
